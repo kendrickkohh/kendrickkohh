@@ -10,7 +10,7 @@ I'm a Cybersecurity enthusiast and Computer Science undergraduate from Nanyang T
 - 🔐 Passionate about **Capture The Flag (CTF)** challenges, particularly in the forensics, web exploitation and OSINT categories.
 - ⚙️ Experienced with tools like **Wireshark**, **Burp Suite**, and increasingly working with **Python**, **Linux**, and **GenAI libraries**.
 - 📊 Interning at [DSTA](https://www.dsta.gov.sg) under the Cyber AI team, working on predictive models to detect Advanced Persistent Threats (APTs) through domain clustering and classification.
-- 🏅 Participated numerous CTFs, in particular my team achieve 50th place in GreyCTF hosted by [NUS Greyhats](https://nusgreyhats.org/). Read my write-up [here]!(https://gist.github.com/kendrickkohh/6c10875ec554bf477bf29514e365263a).
+- 🏅 Participated numerous CTFs, in particular my team achieve 50th place in GreyCTF hosted by [NUS Greyhats](https://nusgreyhats.org/). Read my write-up [here!](https://gist.github.com/kendrickkohh/6c10875ec554bf477bf29514e365263a).
 
 ---
 
