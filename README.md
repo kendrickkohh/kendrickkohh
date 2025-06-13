@@ -41,7 +41,7 @@ I'm a Cybersecurity enthusiast and Computer Science undergraduate from Nanyang T
 ## 📫 Let's Connect!
 
 - ✉️ Email: kendrickkoh3@gmail.com
-- 💼 LinkedIn: [@kendrickkohh]([https://www.linkedin.com/in/kendrickkohh](https://www.linkedin.com/in/kendrick-koh/))
+- 💼 LinkedIn: [@kendrick-koh](https://www.linkedin.com/in/kendrick-koh/)
 - 📷 Instagram: [@kendrickkohh](https://www.instagram.com/kendrickkohh/)
 - 🌐 Portfolio (coming soon)
 
