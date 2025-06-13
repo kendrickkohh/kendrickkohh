@@ -6,9 +6,9 @@ I'm a Cybersecurity enthusiast and Computer Science undergraduate from Nanyang T
 
 ## 🛡️ About Me
 
-- 🎓 Currently studying Computer Science with a strong focus on **Cybersecurity** and **Machine Learning**.
+- 🎓 Currently studying Computer Science with a strong focus on **Cybersecurity**, **Machine Learning** and **Generative AI**
 - 🔐 Passionate about **Capture The Flag (CTF)** challenges, particularly in the forensics, web exploitation and OSINT categories.
-- ⚙️ Experienced with tools like **Wireshark**, **Burp Suite**, and increasingly working with **Python**, **Linux**, and **GenAI libraries**.
+- ⚙️ Experienced with tools like **Wireshark**, **Burp Suite**, and increasingly working with **Python**, **Linux**, and **Forensics libraries**.
 - 📊 Interning at [DSTA](https://www.dsta.gov.sg) under the Cyber AI team, working on predictive models to detect Advanced Persistent Threats (APTs) through domain clustering and classification.
 - 🏅 Participated numerous CTFs, in particular my team achieve 50th place in GreyCTF hosted by [NUS Greyhats](https://nusgreyhats.org/). Read my write-up [here!](https://gist.github.com/kendrickkohh/6c10875ec554bf477bf29514e365263a).
 
@@ -32,16 +32,16 @@ I'm a Cybersecurity enthusiast and Computer Science undergraduate from Nanyang T
 
 ## 👨‍💻 Outside the Terminal
 
-- 🏀 I love playing basketball — it's my way of resetting after long coding sessions.  
-- 🎤 Occasionally, I sing and play the guitar — whether it’s karaoke or coding to Lo-fi beats.  
-- 🎮 I'm a gamer at heart, and I enjoy analyzing games from a systems and UX perspective.
+- 🏀 I love playing basketball, though I just rebound.  
+- 🎤 Occasionally, I sing and play the guitar, bring me to karaoke please.  
+- 🎮 I'm a gamer at heart, I love all things Riot Games, peaking Masters in TFT.
 
 ---
 
 ## 📫 Let's Connect!
 
-- ✉️ Email: kendrickkoh3@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/kendrickkohh](https://www.linkedin.com/in/kendrickkohh)
+- ✉️ Email: kendrickkoh3@gmail.com
+- 💼 LinkedIn: [@kendrick-koh]([https://www.linkedin.com/in/kendrickkohh](https://www.linkedin.com/in/kendrick-koh/))
 - 📷 Instagram: [@kendrickkohh](https://www.instagram.com/kendrickkohh/)
 - 🌐 Portfolio (coming soon)
 
